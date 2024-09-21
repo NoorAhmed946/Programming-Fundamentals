@@ -6,7 +6,7 @@ cout<< "No.of square meters you can paint : ";
 cin>> n ;
 cout<< "Width of the single wall(in meters) : ";
 cin>> w ;
-cout << "Height of the single ball : ";
+cout << "Height of the single wall (in meters) : ";
 cin>> h ;
 walls = n / (w*h) ;
 cout<< " No.of walls you can paint : " << walls ;
